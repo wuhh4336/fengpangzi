@@ -1,5 +1,6 @@
 # -*- coding:utf8 -*-
-__anthor__ = 'wuhaohan'
+
+__anthor__ = 'wuhaohan'#非原作者
 import pandas as pd
 from pandas import DataFrame
 import matplotlib.pyplot as plot
